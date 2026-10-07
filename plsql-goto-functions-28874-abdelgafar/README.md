@@ -211,7 +211,8 @@ END;
 /
 ```
 
-![A2 - Salary Review (GOTO) output](screenshots/A2_output.png)
+<img width="1887" height="877" alt="A2_output (1)" src="https://github.com/user-attachments/assets/7e17e7a9-0ff7-4a1d-97d8-efaf14017d73" />
+
 
 ---
 
