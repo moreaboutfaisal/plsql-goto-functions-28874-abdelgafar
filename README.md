@@ -147,7 +147,8 @@ END;
 /
 ```
 
-![A1 - Number Classifier (GOTO) output](screenshots/A1_output.png)
+<img width="1896" height="912" alt="A1_output" src="https://github.com/user-attachments/assets/9d3cd4b3-29a0-45f5-b8d6-53a4b6f430ef" />
+
 
 ---
 
@@ -211,7 +212,8 @@ END;
 /
 ```
 
-![A2 - Salary Review (GOTO) output](screenshots/A2_output.png)
+<img width="1887" height="877" alt="A2_output (1)" src="https://github.com/user-attachments/assets/251b210c-6787-4e81-bb2e-fb361e561c6f" />
+
 
 ---
 
@@ -264,7 +266,8 @@ END;
 /
 ```
 
-![A3 - Illegal GOTO and Fix output](screenshots/A3_error_and_fix.png)
+<img width="1887" height="881" alt="A3_error_and_fix" src="https://github.com/user-attachments/assets/152d848b-6a15-4117-a4da-0ab4df0b1e35" />
+
 
 ---
 
@@ -335,7 +338,7 @@ END;
 /
 ```
 
-![A4 - Rewrite Without GOTO output](screenshots/A4_output.png)
+<img width="1890" height="881" alt="A4_output" src="https://github.com/user-attachments/assets/3547bfa9-1518-4f24-82b8-6e0079980223" />
 
 ---
 
@@ -535,7 +538,8 @@ END;
 /
 ```
 
-![test_functions output](screenshots/test_functions_output.png)
+<img width="1887" height="876" alt="test_functions_output" src="https://github.com/user-attachments/assets/01742018-7316-4f3c-85ff-a2a5e9b6ae4a" />
+
 
 ---
 
@@ -571,7 +575,8 @@ WHERE  fn_annual_salary(e.monthly_salary) > 8000000
 ORDER  BY fn_annual_salary(e.monthly_salary) DESC;
 ```
 
-![B5 - Functions in SQL output](screenshots/B5_select_output.png)
+<img width="1887" height="877" alt="B5_select_output" src="https://github.com/user-attachments/assets/53c3eb70-abbc-42a3-8edb-df55d01e56d1" />
+
 
 ---
 
@@ -651,7 +656,8 @@ END fn_validate_payroll;
 SHOW ERRORS FUNCTION fn_validate_payroll
 ```
 
-![C1 - Payroll Validator output](screenshots/C1_output.png)
+<img width="1887" height="881" alt="C1_output" src="https://github.com/user-attachments/assets/ff5ae7ee-0741-4122-b041-a7a42ac0535d" />
+
 
 ---
 
